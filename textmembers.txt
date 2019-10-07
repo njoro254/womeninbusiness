@@ -1,0 +1,19 @@
+This is an account that is designed for formal and informal women groups of at least 3 members who would want their savings to be safe and at the same time grow.
+
+Features
+- Minimum opening and operating balance of Kshs 2000
+- Minimum operating balance Kshs 2000
+- Interest paid every 6 months
+- Savers can choose to receive 6, 12, 18 or 24 months investment scheme.
+
+Benefits
+- Zero opening balance
+- Attractive interest rates
+- Flexible savings period
+- Access to loan facilities
+
+Requirements
+- Copy of National ID
+- Passport photo
+- A group of at least 3 members.
+

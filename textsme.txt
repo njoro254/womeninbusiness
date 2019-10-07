@@ -1,0 +1,86 @@
+A small to mid-size enterprise (SME) is a business that maintains revenues, assets, or number of employees below a certain level. The criteria for determining an SME varies among countries and industries. For example, in the European Union (EU), a business with fewer than 250 employees is considered an SME; while in the United States, an SME has fewer than 500 employees.
+
+
+SMEs and the Global Economy
+SMEs make up the vast majority of businesses in most countries. According to U.S. Census Bureau Data from 2016, of the 5.6 million employer firms in the U.S.:
+
+
+99.7% had fewer than 500 employees
+98.2% had fewer than 100 employees
+89.0% had fewer than 20 employees
+
+SEMs contributed 46% of the private nonfarm GDP in 2008⁠, the most recent year for which the source data are available, making them extremely important for economic growth, innovation, and diversity.
+
+Because of their contribution to the economy, greater difficulty in obtaining financing, and higher fixed cost of taxation and regulatory compliance, SMEs are often given incentives and more favorable tax treatment. Depending on the country, governments may use a range of policies to encourage growth of SMEs. 
+
+
+SME-Dominated Industries
+Unsurprisingly, most SMEs reside in industries that don't require large initial capital investments. Based on 2016 U.S. Small Business Administration (SBA) loan approval rates, the fastest-growing SMEs are:
+
+
+Legal offices
+Fitness and recreation centers
+General freight trucking, local
+Dentists offices
+All other specialty trade contractors
+Landscaping services
+Snack and nonalcoholic beverage bars
+Veterinary services
+Other personal care services
+Drinking places (alcoholic beverages)
+All other personal services
+Physicians offices 
+Hotels (except casino hotels) and motels
+Engineering services
+Limited-service restaurants
+Beauty salons
+Child day care services
+Beer, wine and liquor stores
+Single family housing construction
+Full-service restaurants
+
+U.S. SME Definition
+In the United States, the definition of an SME varies by industry, based on the North American Industry Classification System (NAICS). NAICS is a system developed by the United States, Canada, and Mexico to standardize and facilitate the collection and analysis of business statistics.
+
+The SBA provides a list of small business-size standards matched to the NAICS codes. To be considered a small business and be eligible to apply for government contracts and targeted funding, a business must be within the defined limits in terms of number of employees or revenue.
+
+In manufacturing, for example, an SME is defined as having 500 employees or less; whereas in wholesale trades, it is typically 100 employees or less. Ranges within sectors can vary greatly. For instance, in sector 21, Mining, Quarrying and Oil and Gas Extraction, a business involved in copper ore and nickel ore mining can have up to 1,500 employees and still be considered an SME; while a business involved in silver ore mining can only have up to 250 employees.
+
+Canadian SME Definition
+Industry Canada uses the term SME to refer to businesses with fewer than 500 employees while classifying firms with 500 or more employees as large businesses.
+
+Breaking down the SME definition, Industry Canada defines a small business as one that has fewer than 100 employees⁠, if the business is a goods-producing business⁠, or fewer than 50 employees⁠, if the business is a service-based business. A firm that has more employees than these numbers, but fewer than 500 employees is classified as a medium-sized business.
+
+In Canada, a micro-business is defined as a business with fewer than five employees.
+
+In its ongoing research program that collects data on SMEs in Canada, Statistics Canada defines an SME as any business establishment with 0 to 499 employees and less than $50 million in gross revenues.
+
+European Union SME Definition
+In the EU, a similar system is used to define SMEs. A business with a headcount of fewer than 250 is classified as medium-sized; a business with a headcount of fewer than 50 is classified as small, and a business with a headcount of fewer than 10 is considered a micro-business. The European system also takes into account a business’s turnover rate and its balance sheet.
+
+Comparison of the European Union (EU) SME Definitions
+Company Category	Staff Headcount	Turnover or Balance Sheet Total	 
+Medium-sized	< 250	≤ € 50 m	≤ € 43 m
+Small	< 50	≤ € 10 m	≤ € 10 m
+Micro	< 10	≤ € 2 m	≤ € 2 m
+*From the European Commission Definition
+
+There is no standard for defining SMEs in the United Kingdom. The most generally accepted SME classification is the one used by the EU.
+
+China SME Definition
+China's definition of an SME varies by industry. Examples are as follows:
+
+Comparison of China's SME Definitions
+Industry	Staff Headcount	Revenue
+(RMB)	Assets
+Heavy Industry	< 1000	≤ 400 m	 
+Wholesale Trade	< 200	≤ 400 m	 
+Retail	< 300	≤ 200 m	 
+Transportation	< 1000	≤ 300 m	 
+Warehousing	< 200	≤ 300 m	 
+Accommodation	< 300	≤ 100 m	 
+Restaurant/Catering	< 300	≤ 100 m	 
+Software/IT	< 300	≤ 100 m	 
+Real Estate Development	 	≤ 2 b	≤ 100 m
+Information Transmission	< 2000	≤ 1 b	 
+*From the Ministry of Industry and Information Technology, the National Bureau of Statistics, the National Development and Reform Commission, and the Ministry of Commerce (July 7, 2011)

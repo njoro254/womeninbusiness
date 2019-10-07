@@ -1,0 +1,23 @@
+{% extends 'home.html' %}
+
+{% block body %}
+<h1>{{form_message}}</h1>
+{% from "includes/_formhelpers.html" import render_field %}
+<form method="POST" action="">
+	<div class="form-group">
+		{{render_field(form.username, class_="form-control")}}
+	</div>
+	<div class="form-group">
+		{{render_field(form.password, class_="form-control")}}
+	</div>
+
+	<p><input type="submit" class="btn btn-primary" value="Submit"></p>
+    <p>
+    	<a href="./signup">Haven't joined us yet? Join the club!! </a>
+    </p>
+    <p>
+    	<a href="./forgotpassword">Forgot password?  No worries, recover it here! </a>
+    </p>
+
+</form>
+{% endblock %}
